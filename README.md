@@ -9,3 +9,5 @@ Data: g1, g2, g3, g4 and g5
 Entire project is within Jupyter Notebook: `Sonify_Atomic_Hydrogen_in_Galaxies.ipynb`
 
 The project overview is available on this [webpage](https://rdzudzar.github.io/sonify.html)
+
+By Robert & Niko
